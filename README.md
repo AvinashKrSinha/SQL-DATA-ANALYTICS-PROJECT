@@ -6,7 +6,7 @@ This repository contains SQL queries designed to help data analysts and BI profe
 ## 🏗️ Project Roadmap
 
 The Roadmap for this Project is as shown:
-![Roadmap](docs/Project Roadmap.png)
+![Roadmap](docs/Project_Roadmap.png)
 
 ## 🛡️ License
 
