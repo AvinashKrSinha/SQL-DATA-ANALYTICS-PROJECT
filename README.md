@@ -5,7 +5,7 @@ This repository contains SQL queries designed to help data analysts and BI profe
 ---
 ## 🏗️ Project Roadmap
 
-The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+The Roadmap for this Project is as shown:
 ![Roadmap](docs/Project Roadmap.png)
 
 ## 🛡️ License
